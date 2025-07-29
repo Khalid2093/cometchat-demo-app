@@ -44,9 +44,11 @@ npm install
 
 Create a .env file in the project root and add your CometChat credentials:
 
-# VITE_COMETCHAT_APP_ID=your-app-id
-# VITE_COMETCHAT_REGION=your-region
-# VITE_COMETCHAT_AUTH_KEY=your-auth-key
+```bash
+VITE_COMETCHAT_APP_ID=your-app-id
+VITE_COMETCHAT_REGION=your-region
+VITE_COMETCHAT_AUTH_KEY=your-auth-key
+```
 
 ### 4. Run the app
 
